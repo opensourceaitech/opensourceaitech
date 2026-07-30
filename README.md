@@ -40,7 +40,7 @@ it's you.
 
 Live stars and directory rank, refreshed daily:
 
-markdown[![OpenSourceAI](https://olud.ai/badge.php?tool=YOUR-REPO-SLUG)](https://opensourceai.tech/project/YOUR-REPO-SLUG.html)
+markdown [![OpenSourceAI](https://olud.ai/badge.php?tool=YOUR-REPO-SLUG)](https://opensourceai.tech/project/YOUR-REPO-SLUG.html)
 
 Your slug is owner-name, lowercased — find it on your project page.
 
