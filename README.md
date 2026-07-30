@@ -1,11 +1,11 @@
-OpenSourceAI.tech
+olud.ai
 
 Most directories list AI projects. This one measures what connects them.
 
 10,000+ open-source AI projects and 230 models, rebuilt every night from
 GitHub, Hugging Face and provider pricing. Free to read, no account, no key.
 
-opensourceai.tech
+olud.ai
 
 
 👋 If you maintain a project, it probably already has a page here
@@ -40,7 +40,7 @@ it's you.
 
 Live stars and directory rank, refreshed daily:
 
-markdown[![OpenSourceAI](https://opensourceai.tech/badge.php?tool=YOUR-REPO-SLUG)](https://opensourceai.tech/project/YOUR-REPO-SLUG.html)
+markdown[![OpenSourceAI](https://olud.ai/badge.php?tool=YOUR-REPO-SLUG)](https://opensourceai.tech/project/YOUR-REPO-SLUG.html)
 
 Your slug is owner-name, lowercased — find it on your project page.
 
