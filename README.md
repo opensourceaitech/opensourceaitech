@@ -59,7 +59,7 @@ Accept: text/markdown. Roughly a third of the HTML weight.
 
 A figure that's off, a project we missed, a classification that makes no sense:
 write to us or
-hello@opensourceai.tech. Corrections are welcome and land in the next
+hello@olud.ai Corrections are welcome and land in the next
 nightly rebuild.
 
 
